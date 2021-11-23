@@ -1,0 +1,25 @@
+{
+  "name": "discordBot_welcome",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "homepage": "https://github.com/Marko9827/discordBot_welcome#readme",
+  "main": "main.js",
+  "author": {
+    "email": "marko.supergun@gmail.com",
+    "name": "Marko Nikolic",
+    "url": "https://github.com/Marko9827"
+  },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "welcomebot",
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marko9827/discordBot_welcome"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
